@@ -1,4 +1,3 @@
-
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mandeep-gehlot-036b09295/)
 
@@ -21,7 +20,10 @@
 
 ### 📊 Data Science
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,jupyter" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 </p>
 
 ### 🧠 AI / NLP
