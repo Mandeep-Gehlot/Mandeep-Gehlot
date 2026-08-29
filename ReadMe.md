@@ -9,24 +9,24 @@
 
 ---
 
-### Tech Stack
+<h3 align="center">Tech Stack</h3>
 
-**Languages**
+<p align="center"><b>Languages</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css" />
 </p>
 
-**Web Development**
+<p align="center"><b>Web Development</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind" />
 </p>
 
-**Machine Learning & AI**
+<p align="center"><b>Machine Learning & AI</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
 </p>
 
-**Data Science**
+<p align="center"><b>Data Science</b></p>
 <p align="center">
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
@@ -34,7 +34,7 @@
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 </p>
 
-**AI / NLP**
+<p align="center"><b>AI / NLP</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat-square" />
   <img src="https://img.shields.io/badge/DistilBERT-FFCA28?style=flat-square&logoColor=black" />
@@ -46,7 +46,7 @@
   <img src="https://img.shields.io/badge/SMOTE--Tomek-DC143C?style=flat-square" />
 </p>
 
-**Databases & APIs**
+<p align="center"><b>Databases & APIs</b></p>
 <p align="center">
   <img height="48" src="https://cdn.simpleicons.org/mysql/00758F" />
   <img src="https://skillicons.dev/icons?i=mongodb" />
@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/Authentication-FF9800?style=flat-square" />
 </p>
 
-**Tools**
+<p align="center"><b>Tools</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
