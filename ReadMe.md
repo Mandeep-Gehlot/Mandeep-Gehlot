@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mandeep Gehlot</h1>
+<h1 align="center">Mandeep Gehlot</h1>
 <h3 align="center">Machine Learning & Full-Stack Developer | NLP Enthusiast</h3>
 
 <p align="center">
@@ -9,24 +9,24 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
-<h4 align="center">👨‍💻 Languages</h4>
+**Languages**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css" />
 </p>
 
-<h4 align="center">🌐 Web Development</h4>
+**Web Development**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind" />
 </p>
 
-<h4 align="center">🤖 Machine Learning & AI</h4>
+**Machine Learning & AI**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
 </p>
 
-<h4 align="center">📊 Data Science</h4>
+**Data Science**
 <p align="center">
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
@@ -34,7 +34,7 @@
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 </p>
 
-<h4 align="center">🧠 AI / NLP</h4>
+**AI / NLP**
 <p align="center">
   <img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat-square" />
   <img src="https://img.shields.io/badge/DistilBERT-FFCA28?style=flat-square&logoColor=black" />
@@ -46,7 +46,7 @@
   <img src="https://img.shields.io/badge/SMOTE--Tomek-DC143C?style=flat-square" />
 </p>
 
-<h4 align="center">🗄️ Databases & APIs</h4>
+**Databases & APIs**
 <p align="center">
   <img height="48" src="https://cdn.simpleicons.org/mysql/00758F" />
   <img src="https://skillicons.dev/icons?i=mongodb" />
@@ -57,22 +57,9 @@
   <img src="https://img.shields.io/badge/Authentication-FF9800?style=flat-square" />
 </p>
 
-<h4 align="center">🛠️ Tools</h4>
+**Tools**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mandeep-Gehlot&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mandeep-Gehlot&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mandeep-Gehlot&theme=tokyonight" />
 </p>
 
 ---
@@ -80,5 +67,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mandeep-Gehlot&icon=5&color=0e75b6" />
 </p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
